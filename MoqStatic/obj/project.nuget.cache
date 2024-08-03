@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "/zcXi8DwLQSoy+f8WfVWu4aX2i2zVFqROErj3ZHcm2S+mOvcTW/ZH9Ex0QfO3A/IR2fEL8EHgEBj1E9Zv6j0UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wdest\\Desktop\\MoqStatic\\MoqStatic\\MoqStatic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wdest\\.nuget\\packages\\lib.harmony.ref\\2.3.1.1\\lib.harmony.ref.2.3.1.1.nupkg.sha512",
+    "C:\\Users\\Wdest\\.nuget\\packages\\lib.harmony.thin\\2.3.1.1\\lib.harmony.thin.2.3.1.1.nupkg.sha512",
+    "C:\\Users\\Wdest\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Wdest\\.nuget\\packages\\mono.cecil\\0.11.5\\mono.cecil.0.11.5.nupkg.sha512",
+    "C:\\Users\\Wdest\\.nuget\\packages\\monomod.backports\\1.1.0\\monomod.backports.1.1.0.nupkg.sha512",
+    "C:\\Users\\Wdest\\.nuget\\packages\\monomod.core\\1.1.0\\monomod.core.1.1.0.nupkg.sha512",
+    "C:\\Users\\Wdest\\.nuget\\packages\\monomod.ilhelpers\\1.0.1\\monomod.ilhelpers.1.0.1.nupkg.sha512",
+    "C:\\Users\\Wdest\\.nuget\\packages\\monomod.utils\\25.0.4\\monomod.utils.25.0.4.nupkg.sha512",
+    "C:\\Users\\Wdest\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Wdest\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Wdest\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512",
+    "C:\\Users\\Wdest\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

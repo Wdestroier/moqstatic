@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+		<TargetFrameworks>netstandard2.0</TargetFrameworks>
+        <ImplicitUsings>disable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+        <SignAssembly>True</SignAssembly>
+        <AssemblyOriginatorKeyFile>..\MoqStatic.snk</AssemblyOriginatorKeyFile>
+        <LangVersion>latest</LangVersion>
+    </PropertyGroup>
+	
+    <ItemGroup>
+      <None Include="..\MoqStatic.snk">
+        <Link>MoqStatic.snk</Link>
+      </None>
+    </ItemGroup>
+	
+    <ItemGroup>
+      <PackageReference Include="Lib.Harmony.Thin" Version="2.3.1.1" />
+    </ItemGroup>
+
+</Project>

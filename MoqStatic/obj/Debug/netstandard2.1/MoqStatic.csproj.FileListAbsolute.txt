@@ -1,0 +1,10 @@
+C:\Users\Wdest\Desktop\MoqStatic\MoqStatic\bin\Debug\netstandard2.1\MoqStatic.deps.json
+C:\Users\Wdest\Desktop\MoqStatic\MoqStatic\bin\Debug\netstandard2.1\MoqStatic.dll
+C:\Users\Wdest\Desktop\MoqStatic\MoqStatic\bin\Debug\netstandard2.1\MoqStatic.pdb
+C:\Users\Wdest\Desktop\MoqStatic\MoqStatic\obj\Debug\netstandard2.1\MoqStatic.csproj.AssemblyReference.cache
+C:\Users\Wdest\Desktop\MoqStatic\MoqStatic\obj\Debug\netstandard2.1\MoqStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wdest\Desktop\MoqStatic\MoqStatic\obj\Debug\netstandard2.1\MoqStatic.AssemblyInfoInputs.cache
+C:\Users\Wdest\Desktop\MoqStatic\MoqStatic\obj\Debug\netstandard2.1\MoqStatic.AssemblyInfo.cs
+C:\Users\Wdest\Desktop\MoqStatic\MoqStatic\obj\Debug\netstandard2.1\MoqStatic.csproj.CoreCompileInputs.cache
+C:\Users\Wdest\Desktop\MoqStatic\MoqStatic\obj\Debug\netstandard2.1\MoqStatic.dll
+C:\Users\Wdest\Desktop\MoqStatic\MoqStatic\obj\Debug\netstandard2.1\MoqStatic.pdb

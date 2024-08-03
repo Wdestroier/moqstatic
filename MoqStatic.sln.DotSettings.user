@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e3331e3f_002D6266_002D490a_002Dbd5c_002De24b2ffb73d4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;And&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::3D052A40-7B59-41D9-A615-06F0DE2EC233::net7.0::MoqStatic.UnitTests.UnitTest1.MockConcreteInstanceClassAndCallBase&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::3D052A40-7B59-41D9-A615-06F0DE2EC233::net7.0::MoqStatic.UnitTests.UnitTest2.FirstMethodIsNotCalledBySecondMethod&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::3D052A40-7B59-41D9-A615-06F0DE2EC233::net7.0::MoqStatic.UnitTests.Program.Main&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::3D052A40-7B59-41D9-A615-06F0DE2EC233::net7.0::MoqStatic.UnitTests.UnitTest4&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::3D052A40-7B59-41D9-A615-06F0DE2EC233::net7.0::MoqStatic.UnitTests.UnitTest5.GetProductDetails_ReturnsCorrectProduct&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::3D052A40-7B59-41D9-A615-06F0DE2EC233::net7.0::MoqStatic.UnitTests.UnitTest5.MockStaticMethod&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::3D052A40-7B59-41D9-A615-06F0DE2EC233::net7.0::MoqStatic.UnitTests.UnitTest6.Main&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::3D052A40-7B59-41D9-A615-06F0DE2EC233::net7.0::MoqStatic.UnitTests.UnitTest8.Main&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;Not&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;xUnit::3D052A40-7B59-41D9-A615-06F0DE2EC233::net7.0::MoqStatic.UnitTests.UnitTest1&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;xUnit::3D052A40-7B59-41D9-A615-06F0DE2EC233::net7.0::MoqStatic.UnitTests.UnitTest2&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;xUnit::3D052A40-7B59-41D9-A615-06F0DE2EC233::net7.0::MoqStatic.UnitTests.UnitTest5&lt;/TestId&gt;&#xD;
+        &lt;TestId&gt;xUnit::3D052A40-7B59-41D9-A615-06F0DE2EC233::net7.0::MoqStatic.UnitTests.UnitTest6&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+    &lt;/Not&gt;&#xD;
+  &lt;/And&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
