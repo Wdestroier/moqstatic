@@ -1,0 +1,94 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# Rider Project Files
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.sln.ide
+*.userprefs
+
+# Build results
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.log
+*.wrn
+*.err
+*.sln.docstates
+
+# Visual Studio Code directories
+.vscode/
+.vscode/*
+
+# Rider directories
+.idea/
+.idea/*
+
+# Mac auto-generated files
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# NPM Packages
+node_modules/
+
+# Coverage Results
+coverage/
+
+# Packages
+*.nupkg
+*.snupkg
+*.symbols.nupkg
+
+# Visual Studio temp files
+.vs/
+.vscode/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+*.suo
+
+# Windows image file caches
+Thumbs.db
+
+# Rider-specific files
+.idea/
+.idea/*
+
+# Resharper files
+_ReSharper*/
+
+# Build Directories
+x64/
+x86/
+ARM/
+ARM64/
+
+# Distribution and packaging directories
+.publish/
+.publishoutput/
+
+# Web
+wwwroot/
+node_modules/
